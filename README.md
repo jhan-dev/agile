@@ -51,9 +51,9 @@ What can you do to start working in agile ways? Here are a few practices you can
 ### Conduct daily stand-up meetings
 Stand-up meetings are daily meetings (15 minutes or less) with your team. Team members should answer three questions:
 
-1.) What did I do yesterday?
-2.) What will I do today?
-3.) What could be blockers for me?
+-- What did I do yesterday?
+-- What will I do today?
+-- What could be blockers for me?
 
 Stand-up meetings encourage team members to support one another to meet their goals. The intent is to enable transparency and foster communication and collaboration among teams. Blockers that are identified during the daily meeting need to be addressed in a timely manner. However, no problem solving occurs during the stand-up meetings.
 
@@ -66,9 +66,9 @@ Working this way might not be efficient because we have a lot of work in progres
 ### Have retrospectives
 The end of an iteration (typically every two or three weeks) presents an opportunity for an agile team to reflect on its performance and look for ways to improve. This can be thought of as a "lessons learned" meeting. Rather than focus on what the team is building, the retrospective focuses on how the team is working. Schedule time (30 to 60 minutes) at the end of every iteration to conduct a retrospective discussion that focuses on three questions:
 
-1.) What worked well?
-2.) What did not work well?
-3.) What is puzzling us? How can we improve?
+-- What worked well?
+-- What did not work well?
+-- What is puzzling us? How can we improve?
 
 Pick one or two improvement opportunities identified during the meeting to focus on in the next iteration.
 
