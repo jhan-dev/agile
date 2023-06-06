@@ -33,7 +33,7 @@ What are the three principles that reflect the IBM company's values? Again, thes
 1. Begin with clarity about the outcome, and let it guide every step along the way.
 Knowing your goals will help keep your daily decisions on track. Deciding where you want to end up gives you clarity about what you need to do today.
 
-![Alt text](images/agile-values-and-principles)
+![Alt text](images/agile-values-and-principles.png)
 
 
 2. Listen, iterate, learn, and course correct, rather than wait until perfection.
@@ -96,7 +96,7 @@ Clarity of outcomeThis means focusing on the end state and working to achieve a 
 
 This principle demands setting clear goals, clarifying ambiguity, and could involve making some big decisions.
 
-![Alt text](images/agile-values-and-principles)
+![Alt text](images/agile-values-and-principles.png)
 
 ### Listen, iterate, learn, and course correct
 Iteration over perfectionThis is all about doing the work iteratively but taking a few minutes to pause with the team to ask yourself that one critical question: How can I and we get better?
