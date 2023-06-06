@@ -84,3 +84,38 @@ After you've practiced a few times, you might experiment and try different thing
 Once you master your experiments, you write your own directions or tell people about your own approach.
 
 
+## Agile for leaders
+Explore ways that leaders apply agile principles
+The same agile principles that apply to teams also apply to leaders, but with a different focus.
+
+### Focus on the outcome
+Clarity of outcomeThis means focusing on the end state and working to achieve a shared understanding with everyone on the team of what the outcome should be. It also involves inspiring the team towards this outcome and helping the team to envision the outcome.
+![Alt text](images/IBM's agile values and principles.png)
+
+This principle demands setting clear goals, clarifying ambiguity, and could involve making some big decisions.
+
+### Listen, iterate, learn, and course correct
+Iteration over perfectionThis is all about doing the work iteratively but taking a few minutes to pause with the team to ask yourself that one critical question: How can I and we get better?
+![Alt text](images/interation-over-perfecctin.png)
+
+To leaders, this means to listen and seek feedback actively, acknowledge mistakes, focus on continuous improvement, and not demand perfection the first time.
+
+### Create self-empowered, self-directing teams that innovate fantastically
+Self-directed teamsSelf-directing teams means the leader empowers the team, steers and coaches, encourages innovative ideas, and holds the team accountable.
+![Alt text](images/self-directed-teams.png)
+
+## What do you need to remember about this topic?
+Being an agile leader is not an authoritative style where fear and command and control are in play. Instead, being an agile leader involves establishing a culture in which teams flourish and produce their best work.
+
+Being an agile leader is about being a servant leader.
+
+What’s a servant leader?
+A servant leader:
+
+1. Shifts from managing for results to designing environments that create results
+2. Replaces self-interest with service to others
+3. Influences rather than controls
+4. Listens rather than gives orders
+5. Focuses on long-term benefits rather than short-term benefits
+
+
