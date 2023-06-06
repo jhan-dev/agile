@@ -32,16 +32,19 @@ What are the three principles that reflect the IBM company's values? Again, thes
 
 1. Begin with clarity about the outcome, and let it guide every step along the way.
 Knowing your goals will help keep your daily decisions on track. Deciding where you want to end up gives you clarity about what you need to do today.
+
 ![Alt text](images/IBM's agile values and principles.png)
 
 
 2. Listen, iterate, learn, and course correct, rather than wait until perfection.
 As you move toward your goals, new information might require you to re-examine them. Being agile means being flexible to make adjustments, to iterate and evolve. While it's important to have the outcome in mind, it's equally important to adapt quickly.
+
 ![Alt text](images/interation-over-perfecctin.png)
 
 
 3. Build small teams with the right skills and encourage self-direction to unleash innovation.
 Team members need to be empowered to make decisions. Leaders need to prioritize and provide clarity, and then stay out of the way.
+
 ![Alt text](images/self-directed-teams.png)
 
 
@@ -92,16 +95,19 @@ The same agile principles that apply to teams also apply to leaders, but with a 
 Clarity of outcomeThis means focusing on the end state and working to achieve a shared understanding with everyone on the team of what the outcome should be. It also involves inspiring the team towards this outcome and helping the team to envision the outcome.
 
 This principle demands setting clear goals, clarifying ambiguity, and could involve making some big decisions.
+
 ![Alt text](images/IBM's agile values and principles.png)
 
 ### Listen, iterate, learn, and course correct
 Iteration over perfectionThis is all about doing the work iteratively but taking a few minutes to pause with the team to ask yourself that one critical question: How can I and we get better?
 
 To leaders, this means to listen and seek feedback actively, acknowledge mistakes, focus on continuous improvement, and not demand perfection the first time.
+
 ![Alt text](images/interation-over-perfecctin.png)
 
 ### Create self-empowered, self-directing teams that innovate fantastically
 Self-directed teamsSelf-directing teams means the leader empowers the team, steers and coaches, encourages innovative ideas, and holds the team accountable.
+
 ![Alt text](images/self-directed-teams.png)
 
 ## What do you need to remember about this topic?
