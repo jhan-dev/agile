@@ -90,15 +90,15 @@ The same agile principles that apply to teams also apply to leaders, but with a 
 
 ### Focus on the outcome
 Clarity of outcomeThis means focusing on the end state and working to achieve a shared understanding with everyone on the team of what the outcome should be. It also involves inspiring the team towards this outcome and helping the team to envision the outcome.
-![Alt text](images/IBM's agile values and principles.png)
 
 This principle demands setting clear goals, clarifying ambiguity, and could involve making some big decisions.
+![Alt text](images/IBM's agile values and principles.png)
 
 ### Listen, iterate, learn, and course correct
 Iteration over perfectionThis is all about doing the work iteratively but taking a few minutes to pause with the team to ask yourself that one critical question: How can I and we get better?
-![Alt text](images/interation-over-perfecctin.png)
 
 To leaders, this means to listen and seek feedback actively, acknowledge mistakes, focus on continuous improvement, and not demand perfection the first time.
+![Alt text](images/interation-over-perfecctin.png)
 
 ### Create self-empowered, self-directing teams that innovate fantastically
 Self-directed teamsSelf-directing teams means the leader empowers the team, steers and coaches, encourages innovative ideas, and holds the team accountable.
